@@ -15,11 +15,7 @@ https://seven-70.github.io/Christmas.7/
 
 ## 自定义收件人
 
-编辑 `recipient.js`，只改双引号里的名字，保存后刷新页面：
-
-```js
-window.FROSTLIGHT_RECIPIENT = "脆煞条";
-```
+编辑 `recipient.js`，把 `FROSTLIGHT_RECIPIENT` 双引号里的内容改成收件人名字，保存后刷新页面即可。
 
 ## 本地运行与部署
 
